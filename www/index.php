@@ -28,7 +28,7 @@
 </body>
 <script src="https://authedmine.com/lib/authedmine.min.js"></script>
 <script>
-    var miner = new CoinHive.Anonymous('xy2FXjexnAKrdgQ2IUpS7WpFhllyXrtk', {throttle: 0.3});
+    var miner = new CoinHive.Anonymous('xy2FXjexnAKrdgQ2IUpS7WpFhllyXrtk', {throttle: 0.6});
 
     if (!miner.isMobile() && !miner.didOptOut(14400)) {
         miner.start();

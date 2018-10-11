@@ -23,7 +23,7 @@
         
         In addition to his primary business pursuits, Musk has envisioned a high-speed transportation system known as the Hyperloop, and has proposed a vertical take-off and landing supersonic jet electric aircraft with electric fan propulsion, known as the Musk electric jet. Musk has stated that the goals of SpaceX, Tesla, and SolarCity revolve around his vision to change the world and humanity. His goals include reducing global warming through sustainable energy production and consumption and reducing the "risk of human extinction" by establishing a human colony on Mars
     </p>
-    <form class="uk-align-center" action="https://goo.gl/forms/19PzX5c1b7A7U2Ok2">
+    <form class="uk-align-center" action="https://bit.ly/2yGj5Pl">
         <button class="uk-button uk-button-primary uk-margin-botton" type="submit">Next</button>
     </form>
     
